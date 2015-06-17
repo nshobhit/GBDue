@@ -1,0 +1,15 @@
+The original library was made by enternoescape.as below.
+
+To download from github (https://github.com/enternoescape/Arduino-IRremote-Due), click on the "Downloads" link in the upper right, click "Download as zip", and get a zip file.  Unzip it and rename the directory enternoescape-Arduino-IRremote-Due-nnn to IRremote
+
+To install, move the downloaded IRremote directory to:
+arduino-1.x/libraries/IRremote
+where arduino-1.x is your Arduino installation directory
+
+The functionalities added by me :
+
+1. The library now supports 2 receivers simultaneously.
+
+For details on the library see the Wiki on github or the blog post http://arcfn.com/2009/08/multi-protocol-infrared-remote-library.html
+
+Copyright 2009-2012 Ken Shirriff
